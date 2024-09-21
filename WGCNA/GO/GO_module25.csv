@@ -1,8 +1,0 @@
-"Adjusted P value","ID","Description","A & B","A","B","U"
-"1.45148959794575e-08","GO:0006457","protein folding","12","45","165","10021"
-"5.89817965028692e-08","GO:0051082","unfolded protein binding","10","45","110","10021"
-"0.0161033650643432","GO:0051087","chaperone binding","3","45","15","10021"
-"6.43197100332061e-05","GO:0001671","ATPase activator activity","3","45","3","10021"
-"6.43197100332061e-05","GO:0008047","enzyme activator activity","3","45","3","10021"
-"0.00689922037356319","GO:0060589","nucleoside-triphosphatase regulator activity","3","45","11","10021"
-"0.00177841166767311","GO:0060590","ATPase regulator activity","3","45","7","10021"
