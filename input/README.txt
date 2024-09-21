@@ -1,1 +1,0 @@
-The "log.rpm", "rawcnt.lab", and "20180511_Araport11_genes.201606.transcript.rep_ERCC_Virus7457.desc" files used in the analysis are available upon request.
