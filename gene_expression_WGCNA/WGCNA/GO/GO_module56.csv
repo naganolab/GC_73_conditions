@@ -1,0 +1,8 @@
+"Adjusted P value","ID","Description","A & B","A","B","U"
+"0.0265804541435439","GO:0008152","metabolic process","17","18","4962","10021"
+"0.0101092477653267","GO:0044237","cellular metabolic process","15","18","3337","10021"
+"0.0101092477653267","GO:0016020","membrane","10","18","1291","10021"
+"3.19515607433067e-13","GO:0006091","generation of precursor metabolites and energy","10","18","105","10021"
+"2.30497795330193e-15","GO:0015979","photosynthesis","10","18","64","10021"
+"2.17887005197729e-21","GO:0019684","photosynthesis, light reaction","10","18","19","10021"
+"4.73920776376965e-23","GO:0009765","photosynthesis, light harvesting","10","18","14","10021"
