@@ -1,0 +1,45 @@
+"module","Adjusted.P.value","ID","Description","A...B","A","B","U"
+2,"8.07e-04","dosa00030","Pentose phosphate pathway",10,152,51,3558
+2,"1.83e-03","dosa00052","Galactose metabolism",8,152,37,3558
+2,"1.70e-07","dosa00195","Photosynthesis",14,152,48,3558
+2,"2.41e-02","dosa00280","Valine, leucine and isoleucine degradation",7,152,43,3558
+2,"1.64e-04","dosa00500","Starch and sucrose metabolism",16,152,106,3558
+2,"1.70e-07","dosa00630","Glyoxylate and dicarboxylate metabolism",16,152,64,3558
+2,"9.03e-04","dosa00710","Carbon fixation in photosynthetic organisms",11,152,63,3558
+2,"2.12e-03","dosa00920","Sulfur metabolism",7,152,29,3558
+2,"1.21e-11","dosa01100","Metabolic pathways",113,152,1609,3558
+2,"2.38e-07","dosa01110","Biosynthesis of secondary metabolites",68,152,856,3558
+2,"1.26e-07","dosa01200","Carbon metabolism",31,152,224,3558
+2,"4.97e-02","dosa01230","Biosynthesis of amino acids",17,152,200,3558
+3,"1.81e-04","dosa00190","Oxidative phosphorylation",12,93,94,3558
+3,"6.32e-33","dosa03050","Proteasome",31,93,61,3558
+3,"1.06e-02","dosa04144","Endocytosis",11,93,124,3558
+3,"1.16e-04","dosa04145","Phagosome",11,93,72,3558
+5,"3.39e-03","dosa03040","Spliceosome",7,23,164,3558
+5,"1.96e-15","dosa04141","Protein processing in endoplasmic reticulum",16,23,155,3558
+8,"3.24e-04","dosa00970","Aminoacyl-tRNA biosynthesis",22,580,53,3558
+8,"4.47e-17","dosa03008","Ribosome biogenesis in eukaryotes",47,580,78,3558
+8,"4.51e-106","dosa03010","Ribosome",204,580,285,3558
+8,"1.18e-08","dosa03013","RNA transport",52,580,136,3558
+8,"3.20e-02","dosa03040","Spliceosome",42,580,164,3558
+9,"7.08e-04","dosa00940","Phenylpropanoid biosynthesis",6,18,98,3558
+9,"7.81e-03","dosa00941","Flavonoid biosynthesis",3,18,20,3558
+10,"9.28e-03","dosa00940","Phenylpropanoid biosynthesis",4,12,98,3558
+10,"4.65e-05","dosa00941","Flavonoid biosynthesis",4,12,20,3558
+10,"4.76e-03","dosa01100","Metabolic pathways",12,12,1609,3558
+10,"9.28e-03","dosa01110","Biosynthesis of secondary metabolites",9,12,856,3558
+14,"9.33e-04","dosa00860","Porphyrin and chlorophyll metabolism",8,104,42,3558
+14,"7.14e-11","dosa00970","Aminoacyl-tRNA biosynthesis",16,104,53,3558
+14,"1.05e-08","dosa03010","Ribosome",30,104,285,3558
+16,"6.72e-03","dosa03040","Spliceosome",19,152,164,3558
+17,"1.28e-02","dosa00860","Porphyrin and chlorophyll metabolism",6,84,42,3558
+17,"2.71e-04","dosa00900","Terpenoid backbone biosynthesis",8,84,44,3558
+17,"1.61e-04","dosa01100","Metabolic pathways",59,84,1609,3558
+17,"4.76e-07","dosa01110","Biosynthesis of secondary metabolites",45,84,856,3558
+18,"1.49e-03","dosa00630","Glyoxylate and dicarboxylate metabolism",4,9,64,3558
+18,"1.83e-02","dosa00710","Carbon fixation in photosynthetic organisms",3,9,63,3558
+18,"6.44e-03","dosa01200","Carbon metabolism",5,9,224,3558
+19,"8.53e-15","dosa00195","Photosynthesis",13,34,48,3558
+19,"1.85e-02","dosa00710","Carbon fixation in photosynthetic organisms",5,34,63,3558
+19,"2.67e-02","dosa00860","Porphyrin and chlorophyll metabolism",4,34,42,3558
+21,"2.31e-24","dosa00196","Photosynthesis - antenna proteins",11,14,15,3558
