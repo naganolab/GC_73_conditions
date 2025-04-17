@@ -76,6 +76,52 @@
            Tak.result/prob.env.choice.mix_Tak
            Tak.result/env.v.choice.band.T.svg
            Tak.result/env.v.choice.T.svg
+2025.03.10_addit.summay.K.R
+   input: K.result.CG/pred.K.GC
+          K.result.fld/pred.K.fld
+          K.result.mix/pred.K.mix
+   output: genewise.medians.K.svg
+           pred.K.mix.med
+           pred.K.fld.med
+           pred.K.GC.med
+
+2025.04.16_addit.summay.T.R
+   input: pred.T.GC
+          pred.T.fld
+          pred.T.mix
+   output: genewise.medians.T.svg
+           pred.T.mix.med
+           pred.T.fld.med
+           pred.T.GC.med
+
+2025.03.06_run.FIT.Kos.2.R
+   input: genes
+          weather.01
+          attribute.all.K
+          weight.all.K
+          log.rpm.K
+   output: Kos.result.mix.2/model.neg.mix.K.i [i, 1:100]
+           Kos.result.mix.2/model.pos.mix.K.i [i, 1:100]
+           Kos.result.mix.2/model.mix.mix.K.i [i, 1:100]
+           Kos.result.mix.2/trn.smpl.K.mix
+
+2025.03.07_process.models.K.2.R
+   input: genes
+          log.rpm.K
+          weather.01
+          attribute.all.K
+          Kos.result.mix.2/model.neg.mix.K.i [i, 1:100]
+          Kos.result.mix.2/model.pos.mix.K.i [i, 1:100]
+          Kos.result.mix.2/model.mix.mix.K.i [i, 1:100]
+   output: Kos.result.mix.2/pred.neg.mix.K
+           Kos.result.mix.2/pred.pos.mix.K
+           Kos.result.mix.2/pred.mix.mix.K
+
+2025.04.16_summary.K.2.R
+   input: Kos.result.mix.2/pred.neg.mix.K
+          Kos.result.mix.2/pred.pos.mix.K
+          Kos.result.mix.2/pred.mix.mix.K
+   output: FIT.evaluate.K.2.svg
 
 The "log.rpm.K", "log.rpm.T", "weight.all.K", and "weight.all.T" files used in the analysis are available upon request.
 
